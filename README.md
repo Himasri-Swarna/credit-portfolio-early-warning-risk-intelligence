@@ -432,6 +432,8 @@ credit\_risk\_intelligence
 
 18\. \*\*Recent-vintage vs. historical baseline analysis\*\*
 
+
+
 \## 📈 Power BI Dashboard
 
 
