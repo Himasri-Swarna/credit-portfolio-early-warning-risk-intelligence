@@ -1,0 +1,4 @@
+01_data/01_raw/
+01_data/02_processed/fact_loans.csv
+01_data/02_processed/loans_cleaned.csv
+05_powerbi/*.pbix
